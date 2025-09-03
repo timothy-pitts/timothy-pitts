@@ -4,8 +4,11 @@
 <p align='left'>
 
 -👨‍💼Business Intelligence Analyst
+
 -📊 Interested in analytics specifically with data, business, and process improvement
+
 -🤝I aim to join a forward-thinking team, applying analytical skills and cross-cultural insight to deliver impactful business intelligence.
+
 -📦My Intercultural Studies and Master of Divinity degrees show I can ask the right questions and think outside the box.
 
 # Key strengths:
