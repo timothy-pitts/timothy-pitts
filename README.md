@@ -1,4 +1,4 @@
-## Hey 👋, This is Timothy Pitts
+# Hey 👋, This is Timothy Pitts
 [![Gmail Badge](https://img.shields.io/badge/-timothy.pitts1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:timothy.pitts1@gmail.com)](mailto:timothy.pitts1@gmail.com) 
 
 [![LinkedIn Badge](https://img.shields.io/badge/-timothy-pitts-0072b1?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/timothy-pitts/)
