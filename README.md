@@ -3,7 +3,9 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-timothy-pitts-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-pitts/)
 
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/timothy-pitts?tab=repositories/)](https://github.com/timothy-pitts?tab=repositories/) <p align='left'>I am a Business Intelligence Analyst actively developing my expertise through the TripleTen bootcamp, focusing on spreadsheets, SQL, and effective communication. 
+[![GitHub Badge](https://img.shields.io/badge/-timothy-pitts-333333?style=flat&logo=github&logoColor=white)](https://github.com/timothy-pitts/)
+
+<p align='left'>I am a Business Intelligence Analyst actively developing my expertise through the TripleTen bootcamp, focusing on spreadsheets, SQL, and effective communication. 
 
 My background includes Intercultural Studies, customer service, quality assurance, and inventory management, giving me unique insights into diverse business environments.
 
