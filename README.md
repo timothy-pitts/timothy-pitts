@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Timothy Pitts
-[![Gmail Badge](https://img.shields.io/badge/-timothy.pitts1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:timothy.pitts1@gmail.com)](mailto:timothy.pitts1@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-pitts/) [![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/timothy-pitts/)
+[![Gmail Badge](https://img.shields.io/badge/-timothy.pitts1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:timothy.pitts1@gmail.com)](mailto:timothy.pitts1@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-pitts/) [![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/timothy-pitts/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/timothy-pitts/timothy-pitts/)](https://github.com/timothy-pitts/timothy-pitts/) 
 
 <p align='left'>
 
@@ -8,7 +8,7 @@
 -🤝I aim to join a forward-thinking team, applying analytical skills and cross-cultural insight to deliver impactful business intelligence.
 -📦My Intercultural Studies and Master of Divinity degrees show I can ask the right questions and think outside the box.
 
-Key strengths:
+# Key strengths:
 
 -Effective communication
 -Presentation
@@ -18,7 +18,7 @@ Key strengths:
 -Clean Data
 -Teamwork Collaboration
 
-Computer Skills:
+# Computer Skills:
 
 -Spreadsheets (Excel/Google Sheets)
 -SQL
