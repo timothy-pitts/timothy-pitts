@@ -14,18 +14,27 @@
 # Key strengths:
 
 -Effective communication
+
 -Presentation
+
 -Creative Thinking
+
 -Process Improvement
+
 -Organized
+
 -Clean Data
+
 -Teamwork Collaboration
 
 # Computer Skills:
 
 -Spreadsheets (Excel/Google Sheets)
+
 -SQL
+
 -Tableau
+
 -PowerBI
 
 </p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1yNTUHECCvsJ4tZLDYCZQXFsnY1RjeyEA9Q-CI5Qr6FM/edit?tab=t.0 ' target=_blank><u>here</u>.</a></p>
