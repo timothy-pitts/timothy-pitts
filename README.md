@@ -27,7 +27,7 @@
 
 -Teamwork Collaboration
 
-# Computer Skills:
+# Data Analytics Skills:
 
 -Spreadsheets (Excel/Google Sheets)
 
