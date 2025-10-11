@@ -19,7 +19,7 @@
 
 ## Data Analytics Skills:
 - Spreadsheets (Excel/Google Sheets)
-- SQL
+- [SQL](https://github.com/timothy-pitts/SQL-Projects)
 - Tableau
 - PowerBI
 
