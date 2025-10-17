@@ -22,6 +22,7 @@
 - [SQL](https://github.com/timothy-pitts/SQL-Projects)
 - Tableau
 - PowerBI
+- Python
 
 ## My Data Analysis/ Business Analysis Projects:
 All of my projects are available on GitHub!
