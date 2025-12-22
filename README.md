@@ -28,7 +28,7 @@
 All of my projects are available on GitHub!
 - Projects completed during my BI Analyst education can be found [HERE](https://github.com/timothy-pitts/Data_projects_TripleTen)
 
-## </p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1yNTUHECCvsJ4tZLDYCZQXFsnY1RjeyEA9Q-CI5Qr6FM/edit?tab=t.0 ' target=_blank><u>here</u></a></p>
+## </p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/13D8vGN6wwgcWP3ReiSCRJCQghip9lbagW95DfiRtlXg/edit?tab=t.0#heading=h.rohk5o4v896o' target=_blank><u>here</u></a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=timothy-pitts alt=timothy-pitts /> </p>
 
