@@ -8,7 +8,7 @@
 - 🤝I aim to join a forward-thinking team, applying analytical skills and cross-cultural insight to deliver impactful business intelligence.
 - 📦My Intercultural Studies and Master of Divinity degrees show I can ask the right questions and think outside the box.
 
-## Key strengths:
+## Key Strengths:
 - Effective communication
 - Presentation
 - Creative Thinking
@@ -27,6 +27,10 @@
 ## My Data Analysis/ Business Analysis Projects:
 All of my projects are available on GitHub!
 - Projects completed during my BI Analyst education can be found [HERE](https://github.com/timothy-pitts/Data_projects_TripleTen)
+
+## Virtual Internships
+I completed Virtual Internship projects through Forage using Job simulations: online programs built and endorsed by leading companies. These simulations contain a series of resources and tasks designed to simulate the real-world experience of starting a career.
+- Projects completed during each Virtual Internship can be found [HERE](https://github.com/timothy-pitts/Virtual_Internships)
 
 ## </p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/13D8vGN6wwgcWP3ReiSCRJCQghip9lbagW95DfiRtlXg/edit?tab=t.0#heading=h.rohk5o4v896o' target=_blank><u>here</u></a></p>
 ## Some of my Github Stats
