@@ -32,4 +32,4 @@ All of my projects are available on GitHub!
 I completed Virtual Internship projects through Forage using Job simulations: online programs built and endorsed by leading companies. These simulations contain a series of resources and tasks designed to simulate the real-world experience of starting a career.
 - Projects completed during each Virtual Internship can be found [HERE](https://github.com/timothy-pitts/Virtual_Internships)
 
-## </p><p align='left'> You can view my resume <a href='https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-hero-goto' target=_blank><u>here</u></a></p>
+## </p><p align='left'> You can view my resume <ahref='https://drive.google.com/file/d/1hdO_ms3hHy9Q4hRhSsCvwO9OlV07EXDg/view?usp=drive_link' target=_blank><u>here</u></a></p>
